@@ -14,6 +14,15 @@
 </head>
 
 <body>
+
+	<script>
+    const appConfig = {
+        accountSid:"AC...",
+        flexFlowSid:"FO..."
+    };
+    Twilio.FlexWebChat.renderWebChat(appConfig);
+</script>
+	
 	<div id="header-wrapper">
     	<div id="main-menu-wrapper">
             <ul id="main-menu" class="menu section">
@@ -234,15 +243,5 @@ function init_info_box(){
             </tr>
         </tbody></table><!-- #footer -->
     </div><!-- #footer-wrapper -->
-
-	<script data-apikey="pZCOKXvvQJ6_IfJIK8ZwPg" data-env="us01" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/chat-client.js"></script>
-
-<script>
-    const appConfig = {
-        accountSid:"AC...",
-        flexFlowSid:"FO..."
-    };
-    Twilio.FlexWebChat.renderWebChat(appConfig);
-</script>
 	
 </body></html>
