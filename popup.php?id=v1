@@ -1,0 +1,5 @@
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<style>
+* {margin:0; padding:0}
+</style>
+<div style="width:640px;height:360px" ><object type="application/x-silverlight-2" data="data:application/x-silverlight-2," width="640" height="360" ><param name="source" value="http://www.microsoft.com/showcase/silverlight/player/1/player-en.xap" /><param name="initParams" value="Culture=en-us,Uuid=19c22b9a-0a7f-40fd-8d87-9a35bb49db85,Autoplay=True,ShowMarketingOverlay=true,MiscControls=FullScreen;Detached,ShowMenu=true,Tabs=Embed;Email;Share;Info;,ShowCaption=false,VideoUrl=http://www.microsoft.com/en-us/dynamics/video-popup.aspx?uuid=19c22b9a-0a7f-40fd-8d87-9a35bb49db85&v=http://content1.catalog.video.msn.com/e2/ds/9c1043eb-dc0d-4899-b7d5-b4388c9d9b55.mp4,Mode=Player" /><param name="enableHtmlAccess" value="true" /><param name="allowHtmlPopupwindow" value="true" /><param name="background" value="#FF000000" /><param name="minRuntimeVersion" value="4.0.50401.0" /><param name="autoUpgrade" value="true" /></object></div>
