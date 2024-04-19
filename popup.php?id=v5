@@ -1,5 +1,0 @@
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-<style>
-* {margin:0; padding:0}
-</style>
-	<div style="width:640px;height:360px" ><object id="Player" data="data:application/x-silverlight," type="application/x-silverlight" style="visibility: visible;" height="360" width="640">                       <param name="source" value="http://www.microsoft.com/showcase/silverlight/player/1/player-en.xap">                       <param name="onload" value="onPlayerLoad">                       <param name="enableHtmlAccess" value="true">                       <param name="windowless" value="true">                       <param name="background" value="black">                       <param name="minRuntimeVersion" value="4.0.50401.0">                       <param name="autoUpgrade" value="true"><param name="initParams" value="Culture=en-US, MediaSource=http://mediadl.microsoft.com/mediadl/www/d/dynamics/CRMCustomerCare/Microsoft-Dynamics-Customer-Care-Overview.wmv,Mode=Player,Autoplay=true,ShowMenu=false,ShowCaption=false"></object></div>
