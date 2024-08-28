@@ -12,6 +12,12 @@
 
 <link type="text/css" rel="stylesheet" href="css/global.css" />
 <link type="text/css" rel="stylesheet" href="css/main.css" />
+<iframe
+src="https://zoom.us/crm-int/callbar/"
+sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-scripts allow-same-origin allow-downloads"
+allow=";autoplay;microphone;camera;display-capture;midi;encrypted-media;clipboard-write;"
+id="zoom-embeddable-phone-iframe"
+></iframe>
 </head>
 
 <body>
@@ -112,6 +118,11 @@
 .info-box.active .more { display:block; }
 .info-box .more { height:30px; position:absolute; bottom:0; right:0; display:none; }
 .info-box .more span { font-style:italic; color:#e51d4c; position:absolute; bottom:2px; right:18px; }
+
+	#zoom-embeddable-phone-iframe {
+    height: 700px;
+    width: 840px;  
+}
 </style>
 
 <script type="text/javascript">
